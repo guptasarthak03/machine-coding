@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/guptasarthak03/machine-coding/issues"
   },
-  "homepage": "https://github.com/guptasarthak03/machine-coding#readme"
+  "homepage": "https://github.com/guptasarthak03/machine-coding#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
 }
+ 
