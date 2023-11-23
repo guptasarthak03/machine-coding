@@ -1,0 +1,19 @@
+{
+  "name": "machine-coding",
+  "version": "1.0.0",
+  "description": "This project will contain all the small machine coding challenges which I will practice over time in both React and Vanilla js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guptasarthak03/machine-coding.git"
+  },
+  "author": "Sarthak Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guptasarthak03/machine-coding/issues"
+  },
+  "homepage": "https://github.com/guptasarthak03/machine-coding#readme"
+}
