@@ -11,24 +11,11 @@
     </div>
 </body>
 
-<script>
-    // Hello world from Javscript 
-    const heading = document.createElement('h1');
-    heading.textContent = "Hello World from Javascript";
-
-    const rootDOM = document.getElementById('root');
-    rootDOM.appendChild(heading);
-</script>
 
 <!-- Importing React through CDN -->
 <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
 
-<script>
-    // Hello world from React (it will replace anything inside the root "the element we run react in")
-    const headingReact = React.createElement('h1', {}, "Hello From React");
-    const root = ReactDOM.createRoot(document.getElementById('root'));
-    root.render(headingReact);
-</script>
+<script type="module" src="./App.js" ></script>
 
 </html>
