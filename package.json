@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/guptasarthak03/machine-coding#readme",
   "devDependencies": {
-    "parcel": "^2.10.3"
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
   },
   "dependencies": {
     "react": "^18.2.0",
