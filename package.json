@@ -18,6 +18,9 @@
   "homepage": "https://github.com/guptasarthak03/machine-coding#readme",
   "devDependencies": {
     "parcel": "^2.10.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
- 
