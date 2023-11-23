@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './pages/App';
+import App from './App';
 
 // // ! Hello world from Javscript --------------------------------------------
 // const heading = document.createElement('h1');
