@@ -1,0 +1,15 @@
+.modal {
+  background-color: #d6b834;
+  width: 70vw;
+  height: 80vh;
+
+  padding: 20px;
+
+  color: #1c0425;
+  border-radius: 10px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

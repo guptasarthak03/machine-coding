@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+    background-color: #1c0425;
+    font: sans-serif;
+    color: #a6a3a3c3;
+}
+
+.container{
+    text-align: center;
+}
+
+.container--main{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    flex-direction: column;
+}
+
+.container--heading {
+    margin: 1.5rem;
+}
+
