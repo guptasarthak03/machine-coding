@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { calcInitialTime, formatTimeStr, formatTimeVal } from '../utils/timer';
+import { calcInitialTime, formatTimeStr, formatTimeVal } from '../utils/countdown';
 
 /**
  * @param {Number} userTimeInput
