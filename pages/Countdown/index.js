@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React from 'react';
 import useCountdown from '../../library/hooks/useCountdown';
 
 function Countdown() {
@@ -8,7 +8,7 @@ function Countdown() {
     seconds: 10,
   };
 
-  const {timerValue, timerString} = useCountdown(timeInput);
+  const { timerString } = useCountdown(timeInput);
 
   return (
     <div>
