@@ -1,5 +1,5 @@
 import React from 'react'
-import Countdown from './pages/Countdown'
+import Countdown from './projects/Countdown'
 
 function App() {
   return (
