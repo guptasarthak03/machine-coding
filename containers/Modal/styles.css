@@ -1,5 +1,9 @@
+:root {
+  --modalBg: rgb(222, 220, 202);
+}
+
 .modal {
-  background-color: #d6b834;
+  background-color: var(--modalBg);
   width: 70vw;
   height: 80vh;
 

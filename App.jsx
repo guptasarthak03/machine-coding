@@ -1,7 +1,7 @@
 import React from 'react';
-import Countdown from './projects/Countdown';
 import './styles.css';
 import Modal from './containers/Modal';
+// import Countdown from './projects/Countdown';
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <h2 className='container--heading'>Machine Coding</h2>
       <div className='container--main'>
         <Modal>
-          <Countdown />
+          {/* <Countdown /> */}
         </Modal>
       </div>
     </div>
